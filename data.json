@@ -1,0 +1,26 @@
+[
+    {
+        "catbreed":"Bengal",
+        "link":"https://en.wikipedia.org/wiki/Bengal_cat"
+    },
+    {
+        "catbreed":"British Shorthair",
+        "link":"https://en.wikipedia.org/wiki/British_Shorthair"
+    },
+    {
+      "catbreed":"Himalayan",
+      "link":"https://en.wikipedia.org/wiki/Himalayan_cat"
+    },
+    {
+        "catbreed":"Maine Coon",
+        "link":"https://en.wikipedia.org/wiki/Maine_Coon"
+    },
+    {
+        "catbreed":"Norwegian Forest",
+        "link":"https://en.wikipedia.org/wiki/Norwegian_Forest_cat"
+    },
+    {
+        "catbreed":"Siberian",
+        "link":"https://en.wikipedia.org/wiki/Siberian_cat"
+    }
+]
